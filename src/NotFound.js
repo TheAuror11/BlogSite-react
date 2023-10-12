@@ -10,4 +10,4 @@
 //     );
 // }
  
-// export default NotFound;
+export default NotFound;
